@@ -147,7 +147,7 @@ footer p{
 
 .container{
     margin: 50px;
-    height: 545px;
+    height: 547px;
 }
 
 
@@ -206,3 +206,44 @@ footer p{
     padding: 10px;
     margin-bottom: 4px;
 }
+
+
+.form{
+    float: right;
+    margin-top: -620px;
+    background-color: #35424A;
+    padding-right: 60px;
+    color: #ffffff;
+    padding: 20px;
+    margin-right: 20px;
+    padding-left: 40px;
+    width: 25%;
+    
+}
+
+
+#btn-send{
+    background-color: #E8491D;
+    color: #ffffff;
+    width: 60px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+}
+
+
+#comment,
+#email,
+#name{
+    resize: none;
+    width: 400px;
+}
+
+
+#comment{
+    margin-top: 5px;
+    padding-top: 7px;
+    padding-left: 3px;
+}
+
+  
